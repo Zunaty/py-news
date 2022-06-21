@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS py_news_db;
+
+CREATE DATABASE py_news_db;
